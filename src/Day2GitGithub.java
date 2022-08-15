@@ -20,7 +20,7 @@ kullanırız
 
 Not : git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumugösterir
 
-Not 3 : Github ogrendim
+Not 3 : Github ogrendim yahu
  */
 
     }
