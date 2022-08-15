@@ -1,6 +1,7 @@
 public class Day2GitGithub {
 
     public static void main(String[] args) {
+        System.out.print("Javayi da ogrendim");
 
 /*
 1-) git init --> Local repo oluşturmak için yani .git ile klasörümüzün
