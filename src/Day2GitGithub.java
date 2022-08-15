@@ -20,7 +20,12 @@ kullanırız
 
 Not : git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumugösterir
 
-Not 3 : Github ogrendim yahu !!!!!
+Not 3 : Github ogrendim yahu !!!!!,
+
+Not 4 git pull -- Remote(yani uzak Repo) dosyalarimizi guncellemek icin kullanilir.
+------
+-----
+Not 5 : Github cok eglenceli
  */
 
     }
